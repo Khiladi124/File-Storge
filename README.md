@@ -24,7 +24,7 @@ This project is a backend application for file storage and management, inspired 
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Khiladi124/File-Storge)
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Khiladi124/File-Storge.git)
     cd File-Storage
     ```
 
